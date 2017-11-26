@@ -1,3 +1,4 @@
+# Создание списка всех пар и проверка на поиск пары в этом списке
 from time import clock, sleep
 import time
 import json

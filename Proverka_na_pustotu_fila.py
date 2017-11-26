@@ -1,3 +1,4 @@
+# Просто проверка файла на пустоту
 file_obj = open('101_xodov.txt', 'w')
 file_obj.close()
 file_obj = open('101_xodov.txt', 'r')

@@ -1,3 +1,4 @@
+# Попытка собирать статистику через класс
 class Dvoyki(object):
 	"""docstring"""
 	count = 0

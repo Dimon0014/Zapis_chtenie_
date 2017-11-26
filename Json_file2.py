@@ -1,3 +1,4 @@
+# Пример универсальной функции которая читает и записывает в файл данные типа json
 from json import dump, load
 from time import sleep
 from random import random
